@@ -61,8 +61,8 @@ Your readme will have various images and gifs on it. Upload a test image and tes
 
 ### Test Image
 
-[Wide Mace](WideMace)
+<img src="https://github.com/Scrusse/Engineering_4_Notebook/blob/main/images/WideMace.png">
 
 ### Test GIF
 
-[Kanyampster](NegativeEthicalBilby-max-1mb)
+<img src="https://github.com/Scrusse/Engineering_4_Notebook/blob/main/images/NegativeEthicalBilby-max-1mb.gif">
