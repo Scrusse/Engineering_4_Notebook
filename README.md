@@ -28,6 +28,16 @@ This was a pretty simple assignment. The only thing I had trouble with was getti
 
 &nbsp;
 
+## launch_countdown.py
+
+### Assignment Description
+
+I wrote code that displays a countdown from 10 to 0 ("liftoff") in the terminal using a for loop. 
+
+###Evidence
+
+
+
 ## Onshape_Assignment_Template
 
 ### Assignment Description
