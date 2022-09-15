@@ -34,9 +34,13 @@ This was a pretty simple assignment. The only thing I had trouble with was getti
 
 I wrote code that displays a countdown from 10 to 0 ("liftoff") in the terminal using a for loop. 
 
-###Evidence
+### Evidence
 
 
+
+### Code
+
+[launch_countdown.py](https://github.com/Scrusse/Engineering_4_Notebook/blob/main/raspberry-pi/launch_countdown.py)
 
 ## Onshape_Assignment_Template
 
