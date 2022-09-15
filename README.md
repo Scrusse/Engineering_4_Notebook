@@ -36,11 +36,15 @@ I wrote code that displays a countdown from 10 to 0 ("liftoff") in the terminal 
 
 ### Evidence
 
-
+<img src="https://github.com/Scrusse/Engineering_4_Notebook/blob/main/LaunchCountdown.png">
 
 ### Code
 
 [launch_countdown.py](https://github.com/Scrusse/Engineering_4_Notebook/blob/main/raspberry-pi/launch_countdown.py)
+
+### Reflection
+
+There wasn't much to do for this one once again. After trying to run the code without 3 different numbers in the for loop, I realized I needed to add a -1 so it would actually count down.
 
 ## Onshape_Assignment_Template
 
