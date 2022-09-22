@@ -28,7 +28,7 @@ This was a pretty simple assignment. The only thing I had trouble with was getti
 
 &nbsp;
 
-## launch_countdown.py
+## Launch Pad Part 1
 
 ### Assignment Description
 
@@ -45,6 +45,24 @@ I wrote code that displays a countdown from 10 to 0 ("liftoff") in the terminal 
 ### Reflection
 
 There wasn't much to do for this one once again. After trying to run the code without 3 different numbers in the for loop, I realized I needed to add a -1 so it would actually count down.
+
+&nbsp;
+
+## Launch Pad Part 2
+
+### Assignment Description
+
+Adding on to the part 1 code, I connected 2 LEDs to my arduino using a breadboard. One of the LEDs was red and one was green. During the countdown, the red LED would blink every second until the message "LIFTOFF" was printed onto the terminal, at which point the red LED would stop blinking and the green LED would turn on for 10 seconds.
+
+### Evidence
+
+<img src="https://github.com/Scrusse/Engineering_4_Notebook/blob/main/ezgif.com-gif-maker%20(1).gif" width="350">
+
+### Code
+
+
+
+### Wiring
 
 ## Onshape_Assignment_Template
 
