@@ -60,9 +60,15 @@ Adding on to the part 1 code, I connected 2 LEDs to my arduino using a breadboar
 
 ### Code
 
-
+[launch_countdown.py](https://github.com/Scrusse/Engineering_4_Notebook/blob/main/raspberry-pi/launch_countdown.py)
 
 ### Wiring
+
+<img src="https://github.com/Scrusse/Engineering_4_Notebook/blob/main/Launch2.png">
+
+### Reflection
+
+
 
 ## Onshape_Assignment_Template
 
