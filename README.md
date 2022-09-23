@@ -68,7 +68,31 @@ Adding on to the part 1 code, I connected 2 LEDs to my arduino using a breadboar
 
 ### Reflection
 
+For this assignment, I had a lot of trouble understanding how the wiring works. Turns out everyone else was overcomplicating it and it is much easier than it seemed. 
 
+&nbsp;
+
+## Launch Pad Part 3
+
+### Assignment Description
+
+I connected a button to the previous part so that when it is pressed, the countdown begins and the red LED starts blinking.
+
+### Evidence
+
+<img src="https://github.com/Scrusse/Engineering_4_Notebook/blob/main/ezgif.com-gif-maker%20(2).gif" width="350">
+
+### Code
+
+[launch_countdown.py](https://github.com/Scrusse/Engineering_4_Notebook/blob/main/raspberry-pi/launch_countdown.py)
+
+### Wiring
+
+<img src="https://github.com/Scrusse/Engineering_4_Notebook/blob/main/Launch3.png">
+
+### Reflection
+
+This part was really easy and fun because all I had to do was put all of the original for loop into a while true if button pressed loop and then it would work.
 
 ## Onshape_Assignment_Template
 
