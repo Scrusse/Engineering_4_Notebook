@@ -100,6 +100,18 @@ This part was really easy and fun because all I had to do was put all of the ori
 
 Write your assignment description here. What is the purpose of this assignment? It should be at least a few sentences.
 
+&nbsp;
+
+## Launch Pad Part 4
+
+### Assignment Description
+
+I added a servo motor to the countdown that, when the green light turns on, rotates 180 degrees, waits 2 seconds, and then rotates 180 degrees back.
+
+### Evidence
+
+
+
 ### Part Link 
 
 [Create a link to your Onshape document](https://cvilleschools.onshape.com/documents/003e413cee57f7ccccaa15c2/w/ea71050bb283bf3bf088c96c/e/c85ae532263d3b551e1795d0?renderMode=0&uiState=62d9b9d7883c4f335ec42021). Don't forget to turn on link sharing in your Onshape document so that others can see it. 
