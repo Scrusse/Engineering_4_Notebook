@@ -110,7 +110,19 @@ I added a servo motor to the countdown that, when the green light turns on, rota
 
 ### Evidence
 
+<img src="https://github.com/Scrusse/Engineering_4_Notebook/blob/main/ezgif.com-gif-maker%20(4).gif">
 
+### Code
+
+[launch_countdown.py](https://github.com/Scrusse/Engineering_4_Notebook/blob/main/raspberry-pi/launch_countdown.py)
+
+### Wiring
+
+<img src="https://github.com/Scrusse/Engineering_4_Notebook/blob/main/Launch4.png">
+
+### Reflection
+
+The only slightly challenging part of this assignment was adding the library to my Raspberry Pi Pico. To do that I had to download all of the python libraries and then indevidually extract the adafruit_motor library and add it to my circuit python "lib" folder. After that all I did was imported the library and added a for angle in range loop so that the motor would turn 180 degrees when the green light turns on and then turn back 180 degrees 2 seconds later.
 
 ### Part Link 
 
