@@ -94,19 +94,13 @@ I connected a button to the previous part so that when it is pressed, the countd
 
 This part was really easy and fun because all I had to do was put all of the original for loop into a while true if button pressed loop and then it would work.
 
-## Onshape_Assignment_Template
-
-### Assignment Description
-
-Write your assignment description here. What is the purpose of this assignment? It should be at least a few sentences.
-
 &nbsp;
 
 ## Launch Pad Part 4
 
 ### Assignment Description
 
-I added a servo motor to the countdown that, when the green light turns on, rotates 180 degrees, waits 2 seconds, and then rotates 180 degrees back.
+For this part of the Launch Pad assignments I had to get a servo motor to spin when the timer reaches 0. I got the servo motor to spin 180 degrees clockwise once the green light came on, then 2 seconds later it would turn 180 degrees counterclockwise.
 
 ### Evidence
 
@@ -123,6 +117,14 @@ I added a servo motor to the countdown that, when the green light turns on, rota
 ### Reflection
 
 The only slightly challenging part of this assignment was adding the library to my Raspberry Pi Pico. To do that I had to download all of the python libraries and then indevidually extract the adafruit_motor library and add it to my circuit python "lib" folder. After that all I did was imported the library and added a for angle in range loop so that the motor would turn 180 degrees when the green light turns on and then turn back 180 degrees 2 seconds later.
+
+&nbsp;
+
+## Onshape_Assignment_Template
+
+### Assignment Description
+
+Write your assignment description here. What is the purpose of this assignment? It should be at least a few sentences.
 
 ### Part Link 
 
