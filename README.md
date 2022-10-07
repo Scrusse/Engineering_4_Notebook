@@ -5,6 +5,7 @@
 ## Table of Contents
 ### Lauch Pad
 * [Launch Pad Part 1](#Launch_Pad_Part_1)
+* [Launch Pad Part 2](#Launch Pat Part 2)
 ### Crash Avoidance
 
 * [Onshape_Assignment_Template](#Onshape_Assignment_Template)
