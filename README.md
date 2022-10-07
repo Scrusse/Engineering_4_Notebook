@@ -3,7 +3,10 @@
 &nbsp;
 
 ## Table of Contents
-* [Raspberry_Pi_Assignment_Template](#Raspberry_Pi_Assignment_Template)
+### Lauch Pad
+* [Launch_Pad_Part_1](#Launch_Pad_Part_1)
+### Crash Avoidance
+
 * [Onshape_Assignment_Template](#Onshape_Assignment_Template)
 
 &nbsp;
@@ -28,7 +31,7 @@ This was a pretty simple assignment. The only thing I had trouble with was getti
 
 &nbsp;
 
-## Launch Pad Part 1
+## Launch_Pad_Part_1
 
 ### Assignment Description
 
@@ -119,6 +122,8 @@ For this part of the Launch Pad assignments I had to get a servo motor to spin w
 The only slightly challenging part of this assignment was adding the library to my Raspberry Pi Pico. To do that I had to download all of the python libraries and then indevidually extract the adafruit_motor library and add it to my circuit python "lib" folder. After that all I did was imported the library and added a for angle in range loop so that the motor would turn 180 degrees when the green light turns on and then turn back 180 degrees 2 seconds later.
 
 &nbsp;
+
+## Crash Avoidance Part 1
 
 ## Onshape_Assignment_Template
 
