@@ -9,7 +9,8 @@
 * [Launch Pad Part 3](#Launch_Pad_Part_3)
 * [Launch Pad Part 4](#Launch_Pad_Part_4)
 ### Crash Avoidance
-* [Crash Avoidance Part 1](Crash_Avoidance_Part_1)
+* [Crash Avoidance Part 1](#Crash_Avoidance_Part_1)
+* [Crash Avoidance Part 2](#Crash_Avoidance_Part_2)
 
 * [Onshape_Assignment_Template](#Onshape_Assignment_Template)
 
@@ -128,6 +129,34 @@ The only slightly challenging part of this assignment was adding the library to 
 &nbsp;
 
 ## Crash_Avoidance_Part_1
+
+### Assignment Description
+
+The goal for this assignment was to connect an accelerometer to my Raspberyy Pi Pico and show the X, Y, and Z values on the terminal.
+
+### Evidence
+
+<img src="https://github.com/Scrusse/Engineering_4_Notebook/blob/main/ezgif.com-gif-maker%20(5).gif">
+
+### Code
+
+[crash_avoidance.py](https://github.com/Scrusse/Engineering_4_Notebook/blob/main/raspberry-pi/crash_avoidance.py)
+
+### Wiring
+
+<img src="https://github.com/Scrusse/Engineering_4_Notebook/blob/main/CrashAvoidance1.png">
+
+### Reflection
+
+This assignment was one of the more fun ones in my opinion. I enjoy figuring out how to wire things and the satisfaction of them working after half an hour of trying and failing. The code was pretty simple and was stuff I had done before.
+
+## Crash_Avoidance_Part_2
+
+### Assignment Description
+
+For this part, all I had to do was add a light that activates when the accelerometer is tilted 90 or more degrees sideways. All I had to do was detect when Z was less than 1 and then have the light turn but only when Z was less than 1. The wiring for the light was the exact same as in Launch Pad Part 1.
+
+###
 
 ## Onshape_Assignment_Template
 
