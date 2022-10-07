@@ -5,8 +5,11 @@
 ## Table of Contents
 ### Lauch Pad
 * [Launch Pad Part 1](#Launch_Pad_Part_1)
-* [Launch Pad Part 2](#Launch Pad Part 2)
+* [Launch Pad Part 2](#Launch_Pad_Part_2)
+* [Launch Pad Part 3](#Launch_Pad_Part_3)
+* [Launch Pad Part 4](#Launch_Pad_Part_4)
 ### Crash Avoidance
+* [Crash Avoidance Part 1](Crash_Avoidance_Part_1)
 
 * [Onshape_Assignment_Template](#Onshape_Assignment_Template)
 
@@ -52,7 +55,7 @@ There wasn't much to do for this one once again. After trying to run the code wi
 
 &nbsp;
 
-## Launch Pad Part 2
+## Launch_Pad_Part_2
 
 ### Assignment Description
 
@@ -76,7 +79,7 @@ For this assignment, I had a lot of trouble understanding how the wiring works. 
 
 &nbsp;
 
-## Launch Pad Part 3
+## Launch_Pad_Part_3
 
 ### Assignment Description
 
@@ -100,7 +103,7 @@ This part was really easy and fun because all I had to do was put all of the ori
 
 &nbsp;
 
-## Launch Pad Part 4
+## Launch_Pad_Part_4
 
 ### Assignment Description
 
@@ -124,7 +127,7 @@ The only slightly challenging part of this assignment was adding the library to 
 
 &nbsp;
 
-## Crash Avoidance Part 1
+## Crash_Avoidance_Part_1
 
 ## Onshape_Assignment_Template
 
