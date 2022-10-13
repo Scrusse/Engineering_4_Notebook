@@ -13,7 +13,7 @@
 ### Crash Avoidance
 * [Crash Avoidance Part 1](#Crash_Avoidance_Part_1)
 * [Crash Avoidance Part 2](#Crash_Avoidance_Part_2)
-
+### Onshape
 * [Onshape_Assignment_Template](#Onshape_Assignment_Template)
 
 &nbsp;
@@ -158,7 +158,21 @@ This assignment was one of the more fun ones in my opinion. I enjoy figuring out
 
 For this part, all I had to do was add a light that activates when the accelerometer is tilted 90 or more degrees sideways. All I had to do was detect when Z was less than 1 and then have the light turn but only when Z was less than 1. The wiring for the light was the exact same as in Launch Pad Part 1.
 
-###
+### Evidence
+
+<img src="https://github.com/Scrusse/Engineering_4_Notebook/blob/main/raspberry-pi/Images/CrashAvoidance2gif.gif">
+
+### Code
+
+[crash_avoidance.py](https://github.com/Scrusse/Engineering_4_Notebook/blob/main/raspberry-pi/crash_avoidance.py)
+
+### Wiring
+
+<img src="https://github.com/Scrusse/Engineering_4_Notebook/blob/main/raspberry-pi/Images/CrashAvoidance2.png">
+
+### Reflection
+
+I had no problems doing this assignment because it just combined two things I've already done before.
 
 ## Onshape_Assignment_Template
 
