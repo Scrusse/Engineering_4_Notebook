@@ -13,6 +13,8 @@
 ### Crash Avoidance
 * [Crash Avoidance Part 1](#Crash_Avoidance_Part_1)
 * [Crash Avoidance Part 2](#Crash_Avoidance_Part_2)
+### Landing Area
+* [Landing Area Part 1](#Landing_Area_Part_1)
 ### Onshape
 * [Onshape_Assignment_Template](#Onshape_Assignment_Template)
 
@@ -173,6 +175,12 @@ For this part, all I had to do was add a light that activates when the accelerom
 ### Reflection
 
 I had no problems doing this assignment because it just combined two things I've already done before.
+
+## Landing_Area_Part_1
+
+### Assignment Description
+
+For this assignment I had to write code that took 3 coordinates and found the area of the triangle made. This part didn't require any wiring, just the pico.
 
 ## Onshape_Assignment_Template
 
