@@ -180,7 +180,19 @@ I had no problems doing this assignment because it just combined two things I've
 
 ### Assignment Description
 
-For this assignment I had to write code that took 3 coordinates and found the area of the triangle made. This part didn't require any wiring, just the pico.
+For this assignment I had to write code that took 3 coordinates and found the area of the triangle made. The coordinates need to be input into the the terminal. This part didn't require any wiring, just the pico.
+
+### Evidence
+
+<img src="https://github.com/Scrusse/Engineering_4_Notebook/blob/main/raspberry-pi/Images/ezgif.com-gif-maker%20(5).gif">
+
+### Code
+
+[landing_area.py](https://github.com/Scrusse/Engineering_4_Notebook/blob/main/raspberry-pi/landing_area.py)
+
+### Reflection
+
+This assignment was significantly more coding heavy than any of the other ones. I figured out that this is my weakness and I enjoy the wiring parts of assignments better. I tried to do this one by myself but all of the code for the equasions and stuff was too much. I got help from people like Paul Schakel (he was very helpful).
 
 ## Onshape_Assignment_Template
 
