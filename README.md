@@ -16,7 +16,7 @@
 ### Landing Area
 * [Landing Area Part 1](#Landing_Area_Part_1)
 ### Onshape
-* [Onshape_Assignment_Template](#Onshape_Assignment_Template)
+* [FEA Beam Design Part 1](#FEA_Beam_Design_Part_1)
 
 &nbsp;
 
@@ -194,19 +194,18 @@ For this assignment I had to write code that took 3 coordinates and found the ar
 
 This assignment was significantly more coding heavy than any of the other ones. I figured out that this is my weakness and I enjoy the wiring parts of assignments better. I tried to do this one by myself but all of the code for the equasions and stuff was too much. I got help from people like Paul Schakel (he was very helpful).
 
-## Onshape_Assignment_Template
+## FEA_Beam_Design_Part_1
 
 ### Assignment Description
 
-Write your assignment description here. What is the purpose of this assignment? It should be at least a few sentences.
+This was a group project that involved making a beam that weighs ≤ 13g, is at least 186mm long, and can hold as much weight as possible on the end. We were given a template to work off of. This part could be thought of as the rough draft of the design as we will be optimizing it in part 2.
 
 ### Part Link 
 
-[Create a link to your Onshape document](https://cvilleschools.onshape.com/documents/003e413cee57f7ccccaa15c2/w/ea71050bb283bf3bf088c96c/e/c85ae532263d3b551e1795d0?renderMode=0&uiState=62d9b9d7883c4f335ec42021). Don't forget to turn on link sharing in your Onshape document so that others can see it. 
-
+[Beam Design](https://cvilleschools.onshape.com/documents/bf97d39192dd8226ac13c025/w/661b56d36143d290099bc165/e/fa44a3634a5c845d4172ad8b).
 ### Part Image
 
-Take a nice screenshot of your Onshape document. 
+
 
 ### Reflection
 
