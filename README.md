@@ -205,11 +205,11 @@ This was a group project that involved making a beam that weighs ≤ 13g, is at 
 [Beam Design](https://cvilleschools.onshape.com/documents/bf97d39192dd8226ac13c025/w/661b56d36143d290099bc165/e/fa44a3634a5c845d4172ad8b).
 ### Part Image
 
-
+<img src="https://github.com/Scrusse/Engineering_4_Notebook/blob/main/raspberry-pi/Images/Engagement%20Block%20%2B%20Holder.png" width="350">
 
 ### Reflection
 
-What went wrong / was challenging, how'd you figure it out, and what did you learn from that experience? Your goal for the reflection is to pass on knowledge that will make this assignment better or easier for the next person. Think about your audience for this one, which may be "future you" (when you realize you need some of this code in three months), me, or your college admission committee!
+This part only took us around 45 minutes and was pretty simple. I think the triangle things will be very usefull because they add a lot of support without adding much weight. We will probably increase the wall height so it doesn't bend too much.
 
 &nbsp;
 
