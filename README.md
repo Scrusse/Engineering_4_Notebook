@@ -202,14 +202,35 @@ This was a group project that involved making a beam that weighs ≤ 13g, is at 
 
 ### Part Link 
 
-[Beam Design](https://cvilleschools.onshape.com/documents/bf97d39192dd8226ac13c025/w/661b56d36143d290099bc165/e/fa44a3634a5c845d4172ad8b).
+[Beam Design](https://cvilleschools.onshape.com/documents/bf97d39192dd8226ac13c025/w/661b56d36143d290099bc165/e/fa44a3634a5c845d4172ad8b)
+
 ### Part Image
 
-<img src="https://github.com/Scrusse/Engineering_4_Notebook/blob/main/raspberry-pi/Images/Engagement%20Block%20%2B%20Holder.png" width="350">
+<img src="https://github.com/Scrusse/Engineering_4_Notebook/blob/main/raspberry-pi/Images/Engagement%20Block%20%2B%20Holder%20(1).png" width="350">
 
 ### Reflection
 
 This part only took us around 45 minutes and was pretty simple. I think the triangle things will be very usefull because they add a lot of support without adding much weight. We will probably increase the wall height so it doesn't bend too much.
+
+## FEA_Beam_Design_Part_3
+
+### Assignment Description
+
+For this part, we had to optimize the design of the beam so that it could hold as much weight as possible without breaking or bending too far. 
+
+### Part Link
+
+[Beam Design](https://cvilleschools.onshape.com/documents/bf97d39192dd8226ac13c025/w/661b56d36143d290099bc165/e/fa44a3634a5c845d4172ad8b)
+
+### Part Image
+
+<img src="https://github.com/Scrusse/Engineering_4_Notebook/blob/main/raspberry-pi/Images/sim2.png" width="350">
+
+The image above is a simulation that was done before the final changes were made. The right end of the beam was thickened so it wouldn't bend nearly as much.
+
+### Reflection
+
+
 
 &nbsp;
 
