@@ -236,19 +236,39 @@ Very nice.
 
 ### Assignment Description
 
+For this assignment I had to follow directions to create two of four parts for a full assembly. The two parts I made for this section were the Ring and Spinner.
+
 ### Part Link
+
+[Ring](https://cvilleschools.onshape.com/documents/05ddfbcddb1f79cb00b6062d/w/18d4e1dd5368de9cd5e335e5/e/b1dc412b2cb9fb3ed19d906e)
+
+[Spinner](https://cvilleschools.onshape.com/documents/05ddfbcddb1f79cb00b6062d/w/18d4e1dd5368de9cd5e335e5/e/30e46ded1856bfc6903aaef7)
 
 ### Part Image
 
+<img src="https://github.com/Scrusse/Engineering_4_Notebook/blob/main/raspberry-pi/Images/Top%2C%20Ring%2C%20Key.png" width="200">
+<img src="https://github.com/Scrusse/Engineering_4_Notebook/blob/main/raspberry-pi/Images/Spinner%20%26%20Prop.png" width="200">
+
 ### Reflection
+
+These parts were pretty easy. I learned a little more about helixes on the spinner.
 
 ## Key & Prop
 
 ### Assignment Description
 
+For this section I had to add onto the already existing parts by editing in context. The parts I made this time were the Key and Prop, finishing the four needed for the full assembly.
+
 ### Part Link
 
+[Key](https://cvilleschools.onshape.com/documents/05ddfbcddb1f79cb00b6062d/w/18d4e1dd5368de9cd5e335e5/e/b1dc412b2cb9fb3ed19d906e)
+
+[Prop](https://cvilleschools.onshape.com/documents/05ddfbcddb1f79cb00b6062d/w/18d4e1dd5368de9cd5e335e5/e/b1dc412b2cb9fb3ed19d906e)
+
 ### Part Image
+
+<img src="https://github.com/Scrusse/Engineering_4_Notebook/blob/main/raspberry-pi/Images/Top%2C%20Ring%2C%20Key%20(1).png" width="350">
+<img src="https://github.com/Scrusse/Engineering_4_Notebook/blob/main/raspberry-pi/Images/Spinner%20%26%20Prop%20(1).png" width="350">
 
 ### Reflection
 
