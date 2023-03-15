@@ -230,6 +230,37 @@ The image above is a simulation that was done before the final changes were made
 
 ### Reflection
 
+Very nice.
+
+## Ring & Spinner
+
+### Assignment Description
+
+### Part Link
+
+### Part Image
+
+### Reflection
+
+## Key & Prop
+
+### Assignment Description
+
+### Part Link
+
+### Part Image
+
+### Reflection
+
+## Assembling the Launcher
+
+### Assignment Description
+
+### Part Link
+
+### Part Image
+
+### Reflection
 
 
 &nbsp;
