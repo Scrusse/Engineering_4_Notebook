@@ -272,16 +272,25 @@ For this section I had to add onto the already existing parts by editing in cont
 
 ### Reflection
 
+Every tool I had to use for these parts I have already used before. Both did require a pattern of some kind, with the key using a linear pattern and the prop using circular pattern
+
 ## Assembling the Launcher
 
 ### Assignment Description
 
+This is the final section of the Launcher. For this I had to simply assemble the four parts I had already made and mate them in a way that it could somewhat function visibly in onshape.
+
 ### Part Link
+
+[Full Assembly](https://cvilleschools.onshape.com/documents/05ddfbcddb1f79cb00b6062d/w/18d4e1dd5368de9cd5e335e5/e/b62ee3fa91a1cdd384b0aa7f)
 
 ### Part Image
 
+<img src="https://github.com/Scrusse/Engineering_4_Notebook/blob/main/raspberry-pi/Images/Pull%20Copter.png" width="350">
+
 ### Reflection
 
+This was a pretty simple assignment. It taught me more about assemblies and how to edit in context. I also learned about how to simplify parts and do it in as few instances as possible.
 
 &nbsp;
 
