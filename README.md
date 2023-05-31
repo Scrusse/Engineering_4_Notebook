@@ -28,7 +28,7 @@ I wrote code that tells the Raspberry Pi to blink the LED that is built into it.
 
 ### Evidence 
 
-<img src="https://github.com/Scrusse/Engineering_4_Notebook/blob/main/LED_blinky.png">
+<img src="https://github.com/Scrusse/Engineering_4_Notebook/blob/main/raspberry-pi/Images/LED_blinky.png">
 
 ### Code
 
@@ -48,7 +48,7 @@ I wrote code that displays a countdown from 10 to 0 ("liftoff") in the terminal 
 
 ### Evidence
 
-<img src="https://github.com/Scrusse/Engineering_4_Notebook/blob/main/LaunchCountdown.png">
+<img src="https://github.com/Scrusse/Engineering_4_Notebook/blob/main/raspberry-pi/Images/LaunchCountdown.png">
 
 ### Code
 
@@ -68,7 +68,7 @@ Adding on to the part 1 code, I connected 2 LEDs to my arduino using a breadboar
 
 ### Evidence
 
-<img src="https://github.com/Scrusse/Engineering_4_Notebook/blob/main/ezgif.com-gif-maker%20(1).gif" width="350">
+<img src="https://github.com/Scrusse/Engineering_4_Notebook/blob/main/raspberry-pi/Images/ezgif.com-gif-maker%20(1).gif" width="350">
 
 ### Code
 
@@ -76,7 +76,7 @@ Adding on to the part 1 code, I connected 2 LEDs to my arduino using a breadboar
 
 ### Wiring
 
-<img src="https://github.com/Scrusse/Engineering_4_Notebook/blob/main/Launch2.png">
+<img src="https://github.com/Scrusse/Engineering_4_Notebook/blob/main/raspberry-pi/Images/Launch2.png">
 
 ### Reflection
 
@@ -92,7 +92,7 @@ I connected a button to the previous part so that when it is pressed, the countd
 
 ### Evidence
 
-<img src="https://github.com/Scrusse/Engineering_4_Notebook/blob/main/ezgif.com-gif-maker%20(2).gif" width="350">
+<img src="https://github.com/Scrusse/Engineering_4_Notebook/blob/main/raspberry-pi/Images/ezgif.com-gif-maker%20(2).gif" width="350">
 
 ### Code
 
@@ -100,7 +100,7 @@ I connected a button to the previous part so that when it is pressed, the countd
 
 ### Wiring
 
-<img src="https://github.com/Scrusse/Engineering_4_Notebook/blob/main/Launch3.png">
+<img src="https://github.com/Scrusse/Engineering_4_Notebook/blob/main/raspberry-pi/Images/Launch3.png">
 
 ### Reflection
 
@@ -116,7 +116,7 @@ For this part of the Launch Pad assignments I had to get a servo motor to spin w
 
 ### Evidence
 
-<img src="https://github.com/Scrusse/Engineering_4_Notebook/blob/main/ezgif.com-gif-maker%20(4).gif">
+<img src="https://github.com/Scrusse/Engineering_4_Notebook/blob/main/raspberry-pi/Images/ezgif.com-gif-maker%20(4).gif">
 
 ### Code
 
@@ -124,7 +124,7 @@ For this part of the Launch Pad assignments I had to get a servo motor to spin w
 
 ### Wiring
 
-<img src="https://github.com/Scrusse/Engineering_4_Notebook/blob/main/Launch4.png">
+<img src="https://github.com/Scrusse/Engineering_4_Notebook/blob/main/raspberry-pi/Images/Launch4.png">
 
 ### Reflection
 
@@ -140,7 +140,7 @@ The goal for this assignment was to connect an accelerometer to my Raspberyy Pi 
 
 ### Evidence
 
-<img src="https://github.com/Scrusse/Engineering_4_Notebook/blob/main/ezgif.com-gif-maker%20(5).gif">
+<img src="https://github.com/Scrusse/Engineering_4_Notebook/blob/main/raspberry-pi/Images/ezgif.com-gif-maker%20(5).gif">
 
 ### Code
 
@@ -148,7 +148,7 @@ The goal for this assignment was to connect an accelerometer to my Raspberyy Pi 
 
 ### Wiring
 
-<img src="https://github.com/Scrusse/Engineering_4_Notebook/blob/main/CrashAvoidance1.png">
+<img src="https://github.com/Scrusse/Engineering_4_Notebook/blob/main/raspberry-pi/Images/CrashAvoidance1.png">
 
 ### Reflection
 
